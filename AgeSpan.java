@@ -26,6 +26,6 @@ public class AgeSpan
          System.out.println(+ minutes + " minutes.");
          System.out.println(+ seconds + " seconds.");
          System.out.println("Enjoy your life :) ");
-         System.out.println("The purpose of our lives is to be happy");
+         System.out.println("The purpose of our life is to be happy");
     }
 }
